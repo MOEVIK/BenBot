@@ -2,7 +2,6 @@ import asyncio
 from create_bot import bot, dp
 
 from handlers.single import start_router
-#from handlers.group import group_router
 from config import BotConfig
 
 
